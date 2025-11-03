@@ -39,18 +39,18 @@ def get_path():
     crop_data = crop_info.iloc[0]
 
     result = {
-        "✅ Crop": crop.title(),
-        "📍 Location": f"{district}, {state}",
-        "🌱 Sowing Season": crop_data['sowing_season'],
-        "🌡️ Ideal Temperature": f"{crop_data['temp_min']}–{crop_data['temp_max']} °C",
-        "📊 Current Temperature": f"{temperature} °C" if temperature else "Not available",
-        "🧪 Soil Type": crop_data['soil'],
-        "💧 Watering": crop_data['watering'],
-        "🌿 Fertilizers": crop_data['fertilizers'],
-        "🛡️ Pest Management": crop_data['pest_control'],
-        "🕒 Harvest": crop_data['harvest_time'],
-        "📈 Growth Stages": crop_data['growth_stages'],
-        "🌡️ Note": "Current temperature doesn't match ideal range" if temperature and not (crop_data['temp_min'] <= temperature <= crop_data['temp_max']) else "Temperature is suitable"
+        " Crop": crop.title(),
+        " Location": f"{district}, {state}",
+        " Sowing Season": crop_data['sowing_season'],
+        " Ideal Temperature": f"{crop_data['temp_min']}–{crop_data['temp_max']} °C",
+        " Current Temperature": f"{temperature} °C" if temperature else "Not available",
+        " Soil Type": crop_data['soil'],
+        " Watering": crop_data['watering'],
+        " Fertilizers": crop_data['fertilizers'],
+        " Pest Management": crop_data['pest_control'],
+        " Harvest": crop_data['harvest_time'],
+        " Growth Stages": crop_data['growth_stages'],
+        " Note": "Current temperature doesn't match ideal range" if temperature and not (crop_data['temp_min'] <= temperature <= crop_data['temp_max']) else "Temperature is suitable"
     }
 
     return jsonify(result)

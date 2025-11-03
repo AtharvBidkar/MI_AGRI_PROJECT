@@ -1,0 +1,106 @@
+Crop_Name,Crop_Type,Ideal_Soil,Sowing_Season,Temperature_Min_C,Temperature_Max_C,Harvest_Days,Growth_Stages,Crop_Encoded
+Potato,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,79
+Onion,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,66
+Tomato,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,98
+Eggplant,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,32
+Okra,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,65
+Cauliflower,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,17
+Cabbage,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,15
+Carrot,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,16
+Radish,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,81
+Spinach,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,90
+Fenugreek Leaves,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,34
+Bottle Gourd,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,13
+Bitter Gourd,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,10
+Ridge Gourd,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,85
+Snake Gourd,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,87
+Ash Gourd,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,3
+Pumpkin,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,80
+Peas,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,72
+Bell Pepper,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,9
+Cucumber,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,25
+Ginger,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,38
+Garlic,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,37
+Green Chilli,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,40
+Coriander,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,23
+Curry Leaves,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,26
+Drumstick,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,31
+Cluster Beans,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,21
+Taro Root,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,97
+Yam,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,104
+Sweet Potato,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,95
+Lotus Stem,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,57
+Ivy Gourd,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,49
+Indian Round Gourd,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,48
+Pointed Gourd,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,76
+French Beans,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,36
+Green Papaya,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,42
+Jackfruit,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,50
+Amaranth Leaves,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,0
+Mustard Greens,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,64
+Lamb'S Quarters,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,55
+Dill Leaves,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,29
+Spring Onion,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,91
+Elephant Foot Yam,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,33
+Kohlrabi,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,53
+Lablab Beans,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,54
+Chayote,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,18
+Mushroom,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,62
+Corn,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,24
+Turnip,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,99
+Beetroot,Vegetable,Loamy,June–July,18,30,90,Seedling–Vegetative–Flowering–Harvest,8
+Mango,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,60
+Banana,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,6
+Orange,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,67
+Guava,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,43
+Papaya,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,68
+Grapes,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,39
+Pineapple,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,74
+Pomegranate,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,77
+Watermelon,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,101
+Muskmelon,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,63
+Coconut,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,22
+Sweet Lime,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,94
+Apple,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,1
+Pear,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,71
+Plum,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,75
+Apricot,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,2
+Peach,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,70
+Cherry,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,19
+Strawberry,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,93
+Lychee,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,58
+Sapota,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,86
+Custard Apple,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,27
+Black Plum,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,12
+Indian Gooseberry,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,45
+Tamarind,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,96
+Dates,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,28
+Fig,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,35
+Indian Jujube,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,47
+Bullock'S Heart,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,14
+Wood Apple,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,103
+Star Fruit,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,92
+Passion Fruit,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,69
+Rambutan,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,83
+Kiwi,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,52
+Dragon Fruit,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,30
+Pomelo,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,78
+Mulberries,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,61
+Water Chestnut,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,100
+Indian Hog Plum,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,46
+Bael Fruit,Fruit,Well-drained,Feb–March,20,35,150,Bud Formation–Fruit Development–Harvest,4
+Wheat,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,102
+Rice,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,84
+Maize,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,59
+Barley,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,7
+Sorghum,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,88
+Bajra,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,5
+Ragi,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,82
+Chickpea,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,20
+Lentil,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,56
+Green Gram,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,41
+Black Gram,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,11
+Pigeon Pea,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,73
+Soybean,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,89
+Kidney Beans,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,51
+Horse Gram,Cereal/Pulse,Alluvial,June–August,22,32,120,Germination–Tillering–Maturity–Harvest,44

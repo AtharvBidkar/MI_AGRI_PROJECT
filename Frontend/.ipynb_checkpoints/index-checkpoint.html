@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Organic Crop Advisor</title>
+</head>
+<body>
+  <h1>Select Location and Crop</h1>
+  
+  <label>State:</label>
+  <input type="text" id="state"><br><br>
+
+  <label>District:</label>
+  <input type="text" id="district"><br><br>
+
+  <label>City:</label>
+  <input type="text" id="city"><br><br>
+
+  <label>Crop:</label>
+  <input type="text" id="crop"><br><br>
+
+  <button onclick="getOrganicPath()">Get Organic Path</button>
+
+  <h2>Result:</h2>
+  <pre id="result"></pre>
+
+  <script>
+    function getOrganicPath() {
+      fetch('http://127.0.0.1:5000/get_path', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          state: document.getElementById('state').value,
+          district: document.getElementById('district').value,
+          city: document.getElementById('city').value,
+          crop: document.getElementById('crop').value
+        })
+      })
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('result').innerText = JSON.stringify(data, null, 2);
+      })
+      .catch(error => {
+        document.getElementById('result').innerText = 'Error fetching data.';
+        console.error(error);
+      });
+    }
+  </script>
+</body>
+</html>
